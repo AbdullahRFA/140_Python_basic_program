@@ -1,3 +1,17 @@
+"""
+The standard form of a quadratic equation is:
+𝑥2
+𝑎 + 𝑏𝑥 + 𝑐 = 0
+where
+a, b and c are real numbers and
+𝑎 ≠0
+The solutions of this quadratic equation is given by:
+𝑏2 )1/2
+(−𝑏 ± ( − 4𝑎𝑐)
+/(2𝑎)
+
+"""
+
 # Enter coefficient a: 1
 # Enter coefficient b: 4
 # Enter coefficient c: 8
