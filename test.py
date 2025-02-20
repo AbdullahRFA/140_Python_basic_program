@@ -1,11 +1,5 @@
-mat=[]
-n=int(input())
-m=int(input())
-for i in range(n):
-    row = list(map(int,input().split()))
-    mat.append(row)
+mystr='abdullah nazmus'
 
-print(len(mat))
-for row in mat:
-    print(row)
+for x in mystr:
+    print(x)
 
