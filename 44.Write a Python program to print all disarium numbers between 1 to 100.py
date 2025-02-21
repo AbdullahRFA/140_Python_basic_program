@@ -22,3 +22,10 @@ try:
         #     print(f"{num} is not Disarium")
 except ValueError:
     print("Enter the Integer value")
+
+"""
+2 3
+4 6
+
+
+"""
