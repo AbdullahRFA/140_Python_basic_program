@@ -8,3 +8,4 @@ for i in numbers:
         minimum = i
 # Print the minimum value
 print("The smallest number in the list is:", minimum)
+# print("The smallest number in the list is:", min(numbers))
